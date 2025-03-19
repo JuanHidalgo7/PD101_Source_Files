@@ -1,0 +1,7 @@
+sale_id,date,customer,product,amount
+1.0,2025-03-10,Alice,Laptop,1200
+2.0,2025/03/10,Bob,Phone,800
+3.0,"March 11, 2025",,Tablet,Four Hundred
+4.0,2025-03-11,David,Monitor,300
+5.0,2025-03-12,Eve,Keyboard,100
+,2025-03-12,Grace,Charger,20

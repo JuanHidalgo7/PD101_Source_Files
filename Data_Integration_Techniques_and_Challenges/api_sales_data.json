@@ -1,0 +1,30 @@
+[
+    {
+        "sale_id": 6,
+        "sale_date": "2025-03-12",
+        "customer": "Frank",
+        "product": "Mouse",
+        "amount": 50
+    },
+    {
+        "sale_id": 7,
+        "sale_date": "03-13-2025",
+        "customer": "Grace",
+        "product": "Charger",
+        "amount": "Twenty"
+    },
+    {
+        "sale_id": null,
+        "sale_date": "2025-03-13",
+        "customer": "Hank",
+        "product": "Headphones",
+        "amount": 150
+    },
+    {
+        "sale_id": 9,
+        "sale_date": "2025-03-14",
+        "customer": null,
+        "product": "Speaker",
+        "amount": 200
+    }
+]
